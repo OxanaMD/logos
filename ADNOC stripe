@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colored Stripe Example</title>
+    <style>
+        .stripe {
+            height: 100px; /* Adjust height as needed */
+            background-color: #3498db; /* Specify your desired color */
+            width: 100%; /* Full width of the container */
+        }
+    </style>
+</head>
+<body>
+    <div class="stripe"></div>
+</body>
+</html>
