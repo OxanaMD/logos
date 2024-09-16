@@ -1,0 +1,94 @@
+<svg height="600" width="1000" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 16/09/2024, 13:04:21 -->
+<rect height="600" width="1000" fill="#ffffff"></rect>
+<g transform="translate(161.01066,20)">
+<g id="sankey_flows">
+<path id="flow1" d="M12 264.33532C190.01069 264.33532 190.01069 182.88605 368.02138 182.88605" fill="none" stroke-width="118.70643" stroke="#FFC72C" opacity="0.45"><title>From App → Active: 180,969</title></path>
+<path id="flow11" d="M380.02138 109.97076C556.01174 109.97076 556.01174 57.33624 732.00211 57.33624" fill="none" stroke-width="97.20311" stroke="#8692a0" opacity="0.45"><title>Active → To Fando: 148,187</title></path>
+<path id="flow14" d="M378.00105 330.92224C555.00158 330.92224 555.00158 146.37607 732.00211 146.37607" fill="none" stroke-width="80.87654" stroke="#8692a0" opacity="0.45"><title>Inactive → To Fando: 123,297</title></path>
+<path id="flow6" d="M12 102.48383C189.00053 102.48383 189.00053 330.80417 366.00105 330.80417" fill="none" stroke-width="80.6404" stroke="#6F71F4" opacity="0.45"><title>From Fando → Inactive: 122,937</title></path>
+<path id="flow0" d="M12 31.08181C190.01069 31.08181 190.01069 92.45102 368.02138 92.45102" fill="none" stroke-width="62.16363" stroke="#6F71F4" opacity="0.45"><title>From Fando → Active: 94,769</title></path>
+<path id="flow12" d="M380.02138 177.75423C556.01174 177.75423 556.01174 355.03162 732.00211 355.03162" fill="none" stroke-width="38.36383" stroke="#8692a0" opacity="0.45"><title>Active → To Things: 58,486</title></path>
+<path id="flow2" d="M12 388.27286C190.01069 388.27286 190.01069 250.25234 368.02138 250.25234" fill="none" stroke-width="16.02615" stroke="#56CCD1" opacity="0.45"><title>From Things → Active: 24,432</title></path>
+<path id="flow4" d="M12 481.48949C190.01069 481.48949 190.01069 261.14338 368.02138 261.14338" fill="none" stroke-width="4.284" stroke="#FF987A" opacity="0.45"><title>From Special Cases → Active: 6,531</title></path>
+<path id="flow3" d="M12 437.20845C190.01069 437.20845 190.01069 258.6334 368.02138 258.6334" fill="none" stroke-width="1" stroke="#FE90E7" opacity="0.45"><title>From All Manual → Active: 1,122</title></path>
+<path id="flow8" d="M12 437.68696C189.00053 437.68696 189.00053 371.26376 366.00105 371.26376" fill="none" stroke-width="1" stroke="#FE90E7" opacity="0.45"><title>From All Manual → Inactive: 337</title></path>
+<path id="flow13" d="M380.02138 197.01224C556.01174 197.01224 556.01174 449.55564 732.00211 449.55564" fill="none" stroke-width="1" stroke="#8692a0" opacity="0.45"><title>Active → To Octo: 232</title></path>
+<path id="flow9" d="M12 483.68069C189.00053 483.68069 189.00053 371.42348 366.00105 371.42348" fill="none" stroke-width="1" stroke="#FF987A" opacity="0.45"><title>From Special Cases → Inactive: 150</title></path>
+<path id="flow5" d="M12 525.32548C190.01069 525.32548 190.01069 263.33097 368.02138 263.33097" fill="none" stroke-width="1" stroke="#7f7070" opacity="0.45"><title>From Octo → Active: 139</title></path>
+<path id="flow7" d="M12 323.70297C189.00053 323.70297 189.00053 371.1388 366.00105 371.1388" fill="none" stroke-width="1" stroke="#FFC72C" opacity="0.45"><title>From App → Inactive: 44</title></path>
+<path id="flow15" d="M378.00105 371.36937C555.00158 371.36937 555.00158 449.64059 732.00211 449.64059" fill="none" stroke-width="1" stroke="#8692a0" opacity="0.45"><title>Inactive → To Octo: 27</title></path>
+<path id="flow10" d="M12 525.37303C189.00053 525.37303 189.00053 371.47465 366.00105 371.47465" fill="none" stroke-width="1" stroke="#5588DB" opacity="0.45"><title>From Octo → Inactive: 6</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0" class="for_r0" x="0" y="34.625" height="142.80403" width="12" fill="#6F71F4" fill-opacity="1" transform="translate(0,-34.625)"><title>From Fando:
+217,706</title></rect>
+</g>
+<g class="node">
+<rect id="r1" class="for_r1" x="366.00105" y="47.93732" height="202.00736" width="12" fill="#1c9f77" fill-opacity="1" transform="translate(2.02033,13.43188)"><title>Active:
+307,962</title></rect>
+</g>
+<g class="node">
+<rect id="r2" class="for_r2" x="0" y="218.97903" height="118.73529" width="12" fill="#FFC72C" fill-opacity="1" transform="translate(0,-13.99692)"><title>From App:
+181,013</title></rect>
+</g>
+<g class="node">
+<rect id="r3" class="for_r3" x="0" y="379.26432" height="16.02615" width="12" fill="#56CCD1" fill-opacity="1" transform="translate(0,0.99547)"><title>From Things:
+24,432</title></rect>
+</g>
+<g class="node">
+<rect id="r4" class="for_r4" x="0" y="436.84046" height="0.95703" width="12" fill="#FE90E7" fill-opacity="1"><title>From All Manual:
+1,459</title></rect>
+</g>
+<g class="node">
+<rect id="r5" class="for_r5" x="0" y="479.34749" height="4.3824" width="12" fill="#FF987A" fill-opacity="1"><title>From Special Cases:
+6,681</title></rect>
+</g>
+<g class="node">
+<rect id="r6" class="for_r6" x="0" y="525.27989" height="0.09511" width="12" fill="#5588DB" fill-opacity="1"><title>From Octo:
+145</title></rect>
+</g>
+<g class="node">
+<rect id="r7" class="for_r7" x="366.00105" y="291.49468" height="80.99264" width="12" fill="#E75EB6" fill-opacity="1" transform="translate(0,-1.01071)"><title>Inactive:
+123,474</title></rect>
+</g>
+<g class="node">
+<rect id="r8" class="for_r8" x="732.00211" y="121.98935" height="178.07965" width="12" fill="#7e98a8" fill-opacity="1" transform="translate(0,-113.25466)"><title>To Fando:
+271,484</title></rect>
+</g>
+<g class="node">
+<rect id="r9" class="for_r9" x="732.00211" y="341.619" height="38.36383" width="12" fill="#7e98a8" fill-opacity="1" transform="translate(0,-5.7693)"><title>To Things:
+58,486</title></rect>
+</g>
+<g class="node">
+<rect id="r10" class="for_r10" x="732.00211" y="421.53283" height="0.16989" width="12" fill="#7e98a8" fill-opacity="1" transform="translate(0,27.94672)"><title>To Octo:
+259</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="16px" fill="#000000">
+<rect id="label0_bg" class="for_r0" x="-89.79191" y="85.50201" width="88.15922" height="41.12" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,-34.625)"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-6.29754" y="106.02701" font-weight="400" font-size="14.4px" dy="-5.125" transform="translate(0,-34.625)">From Fando<tspan x="-6.29754" dy="19.32" font-weight="400" font-size="17.6px">217,706</tspan></text>
+<rect id="label1_bg" class="for_r1" x="335.52369" y="128.41599" width="73.35453" height="41.11999" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(2.02033,13.43188)"></rect>
+<text id="label1" class="for_r1" text-anchor="middle" x="372.00105" y="148.941" font-weight="400" font-size="14.4px" dy="-5.125" transform="translate(2.02033,13.43188)">Active<tspan x="372.00105" dy="19.32" font-weight="400" font-size="17.6px">307,962</tspan></text>
+<rect id="label2_bg" class="for_r2" x="-74.98723" y="257.82168" width="73.35453" height="41.12001" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,-13.99692)"></rect>
+<text id="label2" class="for_r2" text-anchor="end" x="-6.29754" y="278.34667" font-weight="400" font-size="14.4px" dy="-5.125" transform="translate(0,-13.99692)">From App<tspan x="-6.29754" dy="19.32" font-weight="400" font-size="17.6px">181,013</tspan></text>
+<rect id="label3_bg" class="for_r3" x="-91.93254" y="366.7524" width="90.29984" height="41.12001" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,0.99547)"></rect>
+<text id="label3" class="for_r3" text-anchor="end" x="-6.29754" y="387.27739" font-weight="400" font-size="14.4px" dy="-5.125" transform="translate(0,0.99547)">From Things<tspan x="-6.29754" dy="19.32" font-weight="400" font-size="17.6px">24,432</tspan></text>
+<rect id="label4_bg" class="for_r4" x="-115.4091" y="416.79397" width="113.77641" height="41.12001" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label4" class="for_r4" text-anchor="end" x="-6.29754" y="437.31898" font-weight="400" font-size="14.4px" dy="-5.125">From All Manual<tspan x="-6.29754" dy="19.32" font-weight="400" font-size="17.6px">1,459</tspan></text>
+<rect id="label5_bg" class="for_r5" x="-141.01067" y="461.0137" width="139.37797" height="41.12001" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label5" class="for_r5" text-anchor="end" x="-6.29754" y="481.53869" font-weight="400" font-size="14.4px" dy="-5.125">From Special Cases<tspan x="-6.29754" dy="19.32" font-weight="400" font-size="17.6px">6,681</tspan></text>
+<rect id="label6_bg" class="for_r6" x="-79.37004" y="504.80245" width="77.73734" height="41.12001" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label6" class="for_r6" text-anchor="end" x="-6.29754" y="525.32744" font-weight="400" font-size="14.4px" dy="-5.125">From Octo<tspan x="-6.29754" dy="19.32" font-weight="400" font-size="17.6px">145</tspan></text>
+<rect id="label7_bg" class="for_r7" x="335.52369" y="311.466" width="73.35453" height="41.12001" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,-1.01071)"></rect>
+<text id="label7" class="for_r7" text-anchor="middle" x="372.00105" y="331.991" font-weight="400" font-size="14.4px" dy="-5.125" transform="translate(0,-1.01071)">Inactive<tspan x="372.00105" dy="19.32" font-weight="400" font-size="17.6px">123,474</tspan></text>
+<rect id="label8_bg" class="for_r8" x="745.63478" y="190.50417" width="73.35453" height="41.12001" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,-113.25466)"></rect>
+<text id="label8" class="for_r8" text-anchor="start" x="750.29965" y="211.02918" font-weight="400" font-size="14.4px" dy="-5.125" transform="translate(0,-113.25466)">To Fando<tspan x="750.29965" dy="19.32" font-weight="400" font-size="17.6px">271,484</tspan></text>
+<rect id="label9_bg" class="for_r9" x="745.63478" y="340.27593" width="71.90922" height="41.12001" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,-5.7693)"></rect>
+<text id="label9" class="for_r9" text-anchor="start" x="750.29965" y="360.80092" font-weight="400" font-size="14.4px" dy="-5.125" transform="translate(0,-5.7693)">To Things<tspan x="750.29965" dy="19.32" font-weight="400" font-size="17.6px">58,486</tspan></text>
+<rect id="label10_bg" class="for_r10" x="745.63478" y="401.09277" width="59.35453" height="41.12001" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,27.94672)"></rect>
+<text id="label10" class="for_r10" text-anchor="start" x="750.29965" y="421.61778" font-weight="400" font-size="14.4px" dy="-5.125" transform="translate(0,27.94672)">To Octo<tspan x="750.29965" dy="19.32" font-weight="400" font-size="17.6px">259</tspan></text>
+</g>
+</g></svg>
